@@ -1,2 +1,0 @@
-# JupiterNotebook
-Work Assignments 
